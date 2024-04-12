@@ -1,0 +1,62 @@
+* {
+    color: #ff8b00;
+    background-color: black;
+    font-size: 4vh;
+}
+
+input {
+    padding: 5px;
+    border-radius: 7px;
+    border: 0.1vh solid #ff8b00;
+}
+
+div.loginborder {
+    margin: auto;
+    width: 40vw; 
+    padding: 2%;
+    border: 1vh solid #ff8b00;
+}
+
+div.in-up {
+    display: flex; 
+    
+    gap: 4vw;
+}
+
+div.forget {
+    margin-top: 4vh;
+}
+
+input.submit:hover {
+    /* color: white; */
+    background-color: antiquewhite;
+}
+
+.forget:hover {
+    color: white;
+}
+
+div .in,
+.up {
+ 
+    text-decoration-line: none;
+}
+
+.icon1 {
+    width: 300px;
+    margin: auto;
+}
+
+a.logimg {
+    margin: 0;
+    padding: 0;
+    height: 30vh;
+    width: 30vw;
+}
+
+input.submit {
+    margin-top: 2vh;
+}
+/* input{
+
+} */
